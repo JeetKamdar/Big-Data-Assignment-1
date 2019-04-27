@@ -1,0 +1,6 @@
+The quality issues that I encounterede with were:
+1. Some entries were missing, some fields had no entry at all in some cases.
+2. Some entres had inverted commas (strings) and had commas within them which caused problems.
+3. Some entries had multiple spelling mistakes. Like Yellow and yallow
+4. some entries used different ways of mentioning the same object (like bmw and bmwA3). It is the same model but different people mentin it differently.
+5. Some entries had wrong inputs(not possible). Like 99 in registration_state
